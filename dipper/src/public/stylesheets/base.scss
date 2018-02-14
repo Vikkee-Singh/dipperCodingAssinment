@@ -1,0 +1,27 @@
+// Google Fonts
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,300,700,400italic);
+
+// Modals
+@import "partials/modal";
+
+// Body
+$font-stack: 'Open Sans', sans-serif;
+$main-background: #EFEFEF;
+
+// Navigation
+$hover-background: #E7E7E7;
+$hover-text: #555;
+
+body {
+  // background: $main-background;
+  // font-family: 'Roboto-Regular' !important;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+}
+#header {
+  height: 50px;
+}
+#loginWithFacebook{
+      text-align: center;
+}

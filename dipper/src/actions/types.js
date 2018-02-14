@@ -1,0 +1,4 @@
+export const AUTH_USER = 'AUTH_USER',
+UNAUTH_USER = 'UNAUTH_USER',
+ARTIST = 'ARTIST'
+  ;
